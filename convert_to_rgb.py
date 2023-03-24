@@ -1,3 +1,5 @@
+#NEED TO BE CHANGED.
+
 def wave2rgb(wave):
     # This is a port of javascript code from  http://stackoverflow.com/a/14917481
     gamma = 0.8
